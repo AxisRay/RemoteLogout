@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remoteLogout", "remoteLogout\remoteLogout.csproj", "{21976128-3B82-4B53-9C8B-EB6C2D16AB4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21976128-3B82-4B53-9C8B-EB6C2D16AB4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21976128-3B82-4B53-9C8B-EB6C2D16AB4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21976128-3B82-4B53-9C8B-EB6C2D16AB4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21976128-3B82-4B53-9C8B-EB6C2D16AB4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
